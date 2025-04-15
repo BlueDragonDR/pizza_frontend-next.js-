@@ -97,7 +97,7 @@ function CustomerSlider() {
         <div className="h-[200px] sm:h-[268px]  mb-8">
           <Image
             src={guy2}
-            className="h-[200px] sm:h-[268px] rounded-[21px] drop-shadow-secondary mx-auto max-w-[250px] sm:max-w-[343px] object-cover border border-primary"
+            className="h-[200px] sm:h-[268px] rounded-[21px] drop-shadow-secondary m-auto max-w-[250px] sm:max-w-[343px] object-cover border border-primary"
             alt="slider 1"
           />
         </div>
